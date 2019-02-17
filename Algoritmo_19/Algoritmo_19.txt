@@ -1,0 +1,6 @@
+19-Algoritmo que Permita hacer un almuerzo.
+	Inicio
+		buscar los ingredientes para hacer el almuerzo.
+		preparar los ingredientes.
+		hacer el almuerzo.
+	Final

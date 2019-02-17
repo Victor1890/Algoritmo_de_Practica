@@ -1,0 +1,6 @@
+15-Algoritmo que Permita hacer deporte.
+	Inicio
+		tener la motivación.
+		elegir el deporte que deseas.
+		practicar el deporte que haigas elegido.
+	Final

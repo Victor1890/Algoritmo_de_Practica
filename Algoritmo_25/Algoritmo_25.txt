@@ -1,0 +1,7 @@
+25-Algoritmo que Permita silbar.
+	Inicio
+		Frunce los labios.
+		Enrosca la lengua ligeramente.
+		Empieza a soplar aire sobre tu lengua y a través de tus labios.
+		Experimenta con la posición de tu lengua para producir otras notas.
+	Final

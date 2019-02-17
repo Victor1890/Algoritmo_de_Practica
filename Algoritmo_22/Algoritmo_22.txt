@@ -1,0 +1,7 @@
+22-Algoritmo que Permita nadar.
+	Inicio
+		saber nadar (si no sabes nadar, APRENDE).
+		'si no sabes nadar', buscar un flotador.
+		estar en un rio, playa o piscina (si no hay una inundación).
+		nadar!.
+	Final

@@ -1,0 +1,6 @@
+10-Algoritmo que Permita apagar un bombillo.
+	Inicio
+		acercarse al inteructor.
+		poner el inteructor en "of".
+		bombillo apago :V.
+	Final

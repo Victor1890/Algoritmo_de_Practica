@@ -1,0 +1,9 @@
+16-Algoritmo que Permita hacer un avión con una hoja de papel.
+	Inicio
+		Utiliza una hoja de papel regular.
+		Dobla el papel a la mitad.
+		Dobla las dos esquinas superiores hacia el pliegue central.
+		Dobla nuevamente la solapa hacia la mitad del papel.
+		Dobla el papel a la mitad.
+		Dobla las alas hacia abajo.
+	Final

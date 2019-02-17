@@ -1,0 +1,6 @@
+21-Algoritmo que Permita saludar a un amigo.
+	Inicio
+		ir a buscar a un amigo (Si estas solo).
+		elegir una de todas las formas de saludar a un amigo (Si elegiste saludar con un apretón de mano).
+		saludar.
+	Final

@@ -1,0 +1,9 @@
+14-Algoritmo que Permita ir a la tienda a comprar algo.
+	Inicio
+		ir a la tienda.
+		buscar algo que deseas comprar.
+		tomar lo que usted eligió.
+		ir directamente a la caja.
+		pagar lo haiga que pagar.
+		irse directamente de la tienda e ir a tu casa.
+	Final

@@ -1,0 +1,6 @@
+20-Algoritmo que Permita leer el periódico.
+	Inicio
+		buscar el periodico.
+		leer cada segmento del periodico.
+		leiste el periodico.
+	Final

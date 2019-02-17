@@ -1,0 +1,5 @@
+6-Algoritmo que Permitir tocar determinada canción con un instrumento musical.
+	Inicio
+		tener el instrumento que desea tocar (Por si no tiene el intrumento).
+		elegir la música o melodia que desea tocar.
+	Final

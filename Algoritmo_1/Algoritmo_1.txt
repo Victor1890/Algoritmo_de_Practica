@@ -1,0 +1,7 @@
+1-Algoritmo que Permita entrar a una casa que está con llave.
+	Inicio
+		llegar a tu casa.
+		sacar la llave de tu cartera, pantalón o mochila.
+		introducir la llave a la serradura o candado.
+		entrar a tu casa.
+	Final

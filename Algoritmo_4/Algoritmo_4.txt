@@ -1,0 +1,8 @@
+4-Algoritmo que Permita botar la basura.
+	Inicio
+		tomar la basura.
+		echarla en un zafacon.
+		tomar la bolsa de basura (Por si no tiene bolsa de basura).
+		amarrar la bolsa de basura.
+		tomar la bolsa de basura y sacarla.
+	Final

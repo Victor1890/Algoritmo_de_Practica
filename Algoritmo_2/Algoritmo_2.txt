@@ -1,0 +1,7 @@
+2-Algoritmo de Permita empacar un regalo.
+	Inicio
+		tener el objeto.
+		buscar la envoltura.
+		envolver el objeto con el diseño de su preferencia.
+		poner un adorno de su preferencia.
+	Final

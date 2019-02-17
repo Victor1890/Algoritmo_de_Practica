@@ -1,0 +1,7 @@
+17-Algoritmo que Permita manejar una motocicleta.
+	Inicio
+		tener una motocicleta.
+		montarse en la motocicleta.
+		encender la motocicleta.
+		conducir la motocicleta.
+	Final

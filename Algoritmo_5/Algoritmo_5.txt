@@ -1,0 +1,5 @@
+5-Algoritmo que Permita estudiar para un examen. 
+	Inicio
+		buscar los materiales de estudio.
+		tocar determinada canción con un instrumento musical.
+	Final

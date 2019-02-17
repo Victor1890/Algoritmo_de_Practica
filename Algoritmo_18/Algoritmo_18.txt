@@ -1,0 +1,6 @@
+18-Algoritmo que Permita maquillarse.
+	Inicio
+		buscar los maquillajes que elegiste.
+		maquillarse en la zona que desea.
+		listo.
+	Final

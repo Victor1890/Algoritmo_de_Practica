@@ -1,0 +1,7 @@
+13-Algoritmo que Permita escuchar un determinado disco.
+	Inicio
+		tomar el disco y poner en un reproductor de disco (Si es un CD o DVD ponerlo en la PC).
+		esperar que el disco cargue los archivos necesarios.
+		elegir la pista de desea oir.
+		escuchar el disco.
+	Final

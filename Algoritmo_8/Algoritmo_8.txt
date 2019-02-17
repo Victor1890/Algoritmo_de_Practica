@@ -1,0 +1,8 @@
+8-Algoritmo que Permita viajar en avión.
+	Inicio
+		comprar el voleto por linea o en el aeropuerto.
+		hacer tus maletas.
+		ir al aueropuerto.
+		tomar el avion.
+		viajar.
+	Final

@@ -1,0 +1,8 @@
+9-Algoritmo que Permita encender una vela.
+	Inicio
+		buscar la vela.
+		buscar un fosforo.
+		buscar el lugar perfecto para encender la vela.
+		encenderla vela.
+		vela encendida.
+	Final

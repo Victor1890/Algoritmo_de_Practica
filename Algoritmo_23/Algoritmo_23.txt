@@ -1,0 +1,6 @@
+23-Algoritmo que Permita tirarse desde un avión sin un paracaídas.
+	Inicio
+		estar en el avión (si no estas en el avión, tienes que estar en uno).
+		estar por encima de los 700m de altura.
+		saltar en el avión sin paracaidas.
+	Final

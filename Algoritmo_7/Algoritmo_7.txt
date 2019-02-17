@@ -1,0 +1,6 @@
+7-Algoritmo que Permita permita encender un bombillo.
+	Inicio
+		acercarse al inteructor.
+		poner el inteructor en "on".
+		bombillo encendido :v.
+	Final

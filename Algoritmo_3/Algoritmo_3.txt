@@ -1,0 +1,10 @@
+3-Algoritmo que Permita fritar un huevo.
+	Inicio
+		tomar la sartén y preparar el aceite.
+		esperar que el aceite se caliente.
+		tomar el huevo.
+		romper el huevo.
+		ponerlo en el sartén.
+		esperar unos minutos
+		sacar el huevo del sartén.
+	Final

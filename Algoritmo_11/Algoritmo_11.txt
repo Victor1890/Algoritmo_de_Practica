@@ -1,0 +1,8 @@
+11-Algoritmo que Permita almorzar.
+	Inicio
+		tener hambre (por si no tiene hambre).
+		buscar algo de comer (si no hay nada, prepara algo).
+		preparar el lugar donde quieres comer.
+		servir la comida.
+		comer.
+	Final

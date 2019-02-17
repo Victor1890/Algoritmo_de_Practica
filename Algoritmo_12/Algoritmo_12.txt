@@ -1,0 +1,7 @@
+12-Algoritmo que Permita colocarse una camisa.
+	Inicio
+		buscar una camisa.
+		ponerse las mangas.
+		verificar si la camisa esta bien ordenada.
+		camisa puesta.
+	Final

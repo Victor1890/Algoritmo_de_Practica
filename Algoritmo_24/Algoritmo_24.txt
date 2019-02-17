@@ -1,0 +1,8 @@
+24-Algoritmo que Permita amarrase un zapato.
+	Inicio
+		Pon un zapato en frente de ti con la punta de espaldas a ti.
+		Haciéndolo en diagonal, introduce el extremo derecho del cordón en el agujero del lado izquierdo (de la parte superior).
+		Mete el extremo izquierdo del cordón en el siguiente agujero derecho.
+		Continúa bajando hasta llegar a los extremos.
+		Haz un lazo (como se ve abajo).
+	Final
